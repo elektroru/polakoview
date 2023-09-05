@@ -1,0 +1,6 @@
+root/_site
+root/.sass-cache
+root/.jekyll-cache
+root/.jekyll-metadata
+root/vendor
+**/.DS_Store
