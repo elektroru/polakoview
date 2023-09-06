@@ -8,7 +8,7 @@ permalink: /
 
 You can download it from the App Store using the link below:
 
-[![Download on the App Store](/assets/appstore.png)](https://apps.apple.com/polakoview)
+[![Download on the App Store](/assets/appstore.png)](https://apps.apple.com/app/polakoview/id6458876742)
 
 Feel free to reach out to us if you have any questions or feedback. We'd love to hear from you!
 
